@@ -1,0 +1,9 @@
+SHA-256 hash of luraxis_session.txt:
+25E939B0B35A0955774F07948F63BFE707A9FADA3A8CBF477BE759C346AD7C5E
+
+Generated on:
+2025-06-23T21:20:15+00:00
+
+Note:
+This hash certifies the exact content of the file 'luraxis_session.txt'.
+Any change, even a single character, will produce a different hash.
